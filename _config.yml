@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "WO_Headshot.png"
   name             : "William Manning Olsen"
   pronouns         : # example: "she/her"  
-  bio              : "I am an academic teaching medicines management for the health professions. My research is at the intersection of pharmacy practice and bioethics."
+  bio              : "Pharmacist, Pharmacy Ethicist"
   location         : "Brisbane, QLD, Australia"
   employer         : "The University of Queensland"
   uri              : # URL
